@@ -1,0 +1,13 @@
+{
+  "type": "code",
+  "modid": "handbookpinyinsupport",
+  "name": "HandbookPinyinSupport",
+  "authors": [
+    "Funny_ppt"
+  ],
+  "description": "在生存手册的物品搜索功能中支持拼音",
+  "version": "1.0.6",
+  "dependencies": {
+    "game": ""
+  }
+}
