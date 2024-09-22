@@ -1,1 +1,3 @@
 # HandbookPinyinSupport
+一个向VintageStory添加拼音搜索支持的MOD
+该MOD能够让你在生存手册和创造模式物品栏搜索时使用拼音和拼音缩写来筛选物品
